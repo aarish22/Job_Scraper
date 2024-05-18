@@ -28,7 +28,7 @@ This project is a Python-based web scraper designed to help job seekers find rel
 
 1. **Clone the Repository**: 
     ```bash
-    git clone https://github.com/yourusername/job-scraper.git
+    git clone https://github.com/aarish22/Job_Scraper.git
     cd job-scraper
     ```
 
